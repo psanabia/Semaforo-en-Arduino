@@ -7,7 +7,9 @@ Los materiales que utilice fueron:
 3 LED's verdes, 3 LED's amarillos, 3 LED's rojos, "n" LED's blancos, resistencias de soporten 5V
 cable negro y rojo "A22", Arduino Uno, Protobor, una pila de salida 5V. 
 
-La imagen 01, es la muestra es la muestra de como quedaria ensamblado el Arduino con el programa "Fritzing" 
+La imagen "semaforo01", es la muestra es la muestra de como quedaria ensamblado el Arduino, los LED's
+y el protobor, yo utilice un programa que se llama FRITZING.
+
 
 
 
