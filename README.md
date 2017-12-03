@@ -1,4 +1,4 @@
-# semaforoARDUINO (en desarrollo)
+# semaforoARDUINO
 Este proyecto es un semaforo de Arduino.
 
 El proyecto cuenta con 3 semaforos y unos LED's blancos que simulan como lamparas de las calles
