@@ -2,9 +2,9 @@
 //PROXIMO ING. SISTEMAS COMPUTACIONALES
 //Variables
 //asignacion de puerto a cada uno de los LED's
-int ledverde1 = 1;
-int ledverde2 = 5;
-int ledverde3 = 10;
+int ledverde1 = 1; //el numero indica el numero de puerto del arduino
+int ledverde2 = 5;  //aqui es la entrada digital 5 
+int ledverde3 = 10;  //y asi con cada numero 
 int ledamarillo1 = 2;
 int ledamarillo2 = 6;
 int ledamarillo3 = 11;
