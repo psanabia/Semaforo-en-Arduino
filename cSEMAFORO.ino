@@ -1,5 +1,5 @@
 //PEDRO ANTONIO SANABIA NAVARRO
-//PROXIMO ING. SISTEMAS COMPUTACIONALES
+//ING. SISTEMAS COMPUTACIONALES
 //Variables
 //asignacion de puerto a cada uno de los LED's
 int ledverde1 = 1; //el numero indica el numero de puerto del arduino
@@ -13,7 +13,7 @@ int ledrojo2 = 7;
 int ledrojo3 = 12;
 int ledblancos = 13;
 //PEDRO ANTONIO SANABIA NAVARRO
-//PROXIMO ING. SISTEMAS COMPUTACIONALES
+//ING. SISTEMAS COMPUTACIONALES
 void setup() {
   // put your setup code here, to run once:
 pinMode(ledverde1, OUTPUT);
@@ -28,7 +28,7 @@ pinMode(ledrojo3, OUTPUT);
 pinMode(ledblancos, OUTPUT);
 }
 //PEDRO ANTONIO SANABIA NAVARRO
-//PROXIMO ING. SISTEMAS COMPUTACIONALES
+//ING. SISTEMAS COMPUTACIONALES
 void loop() 
 {
 // put your main code here, to run repeatedly:
@@ -51,7 +51,7 @@ delay(250);
 //manda a apagar todos los LED's excepto ROJO2, ROJO3 y BLANCOS
 
 //PEDRO ANTONIO SANABIA NAVARRO
-//PROXIMO ING. SISTEMAS COMPUTACIONALES
+//ING. SISTEMAS COMPUTACIONALES
 
 //Inicio el primer semaforo
 digitalWrite(ledverde1, LOW);     //Enciende el led verde,
@@ -68,7 +68,7 @@ digitalWrite(ledverde1, HIGH);    //que sera el amarillo
 delay(250);
 
 //PEDRO ANTONIO SANABIA NAVARRO
-//PROXIMO ING. SISTEMAS COMPUTACIONALES
+//ING. SISTEMAS COMPUTACIONALES
 
 digitalWrite(ledamarillo1, LOW);   //le damos la señal al LEDamarillo
 delay(250);                        //que se apague por 1/4 de segundo
@@ -89,7 +89,7 @@ digitalWrite(ledrojo1, LOW);
 delay(100);
 
 //PEDRO ANTONIO SANABIA NAVARRO
-//PROXIMO ING. SISTEMAS COMPUTACIONALES
+//ING. SISTEMAS COMPUTACIONALES
 
 //semaforo2 
 //incia mandando a apagando el LEDrojo2 
@@ -167,4 +167,4 @@ delay(100);
 }
 
 //PEDRO ANTONIO SANABIA NAVARRO
-//PROXIMO ING. SISTEMAS COMPUTACIONALES
+//ING. SISTEMAS COMPUTACIONALES
